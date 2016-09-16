@@ -6,3 +6,4 @@ You can configure multiple BeanPostProcessor interfaces and you can control the 
 The BeanPostProcessors operate on bean (or object) instances which means that the Spring IoC container instantiates a bean instance and then BeanPostProcessor interfaces do their work.
 
 
+this is just an edit
