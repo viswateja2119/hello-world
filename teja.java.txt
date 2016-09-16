@@ -1,0 +1,10 @@
+public class teja
+{
+public void main()
+{
+
+
+}
+
+
+}
